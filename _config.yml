@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Noah_Kiimeh's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Noah Kim"
 description              : "An amazing website."
 url                      : "https://noahkiimeh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
